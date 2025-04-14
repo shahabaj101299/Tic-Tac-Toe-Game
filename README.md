@@ -9,4 +9,4 @@ Features :
 * Reset/New Game: Option to reset or start a new game.
 
   To clone use this link:
-  https://github.com/shahabaj101299/Tic-Tac-Toe-Game.git
+  https://github.com/shahabaj101299/Tic-Tac-Toe-Game
